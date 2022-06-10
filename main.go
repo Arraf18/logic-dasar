@@ -1,10 +1,9 @@
 package main
 
-import "logic-dasar/logic01"
-"logic-dasar/logic02"
-
+import (
+	"github.com/Arraf18/logic-dasar/logic_02"
+)
 
 func main() {
-	logic01.Soal01()
-	logic02.Logic02Soal01()
+	logic_02.Logic02Soal06(9)
 }

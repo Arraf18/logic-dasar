@@ -1,4 +1,4 @@
-package aarray
+package array
 
 //create new array with dinamic value
 /*

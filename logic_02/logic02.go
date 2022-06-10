@@ -1,4 +1,4 @@
-package logic02
+package logic_02
 
 import "fmt"
 
@@ -98,12 +98,12 @@ func Logic02Soal06(n int) {
 				fmt.Print(a, "\t")
 				a += 3
 			} else {
-				fmt.Print(a, "t")
+				fmt.Print(a, "\t")
 				a -= 3
 			}
 		}
 		//pindah baris
-		fmt.Println("\n")
+		fmt.Print("\n")
 	}
 }
 
